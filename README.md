@@ -14,7 +14,6 @@ CASHEW TRACER is a lightweight Python-based terminal tool for gathering network 
 - Website → IP extraction
 - Phone number country lookup
 - JSON report export
-- Colored terminal interface
 
 ## Installation
 
