@@ -21,5 +21,5 @@ CASHEW TRACER is a lightweight Python-based terminal tool for gathering network 
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/cashew-tracer.git
+git clone https://github.com/ryanmoietta/CASHEWTRACER.git
 cd cashew-tracer
